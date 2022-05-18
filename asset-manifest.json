@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discussionboard/static/css/main.375a3f88.css",
+    "main.js": "/discussionboard/static/js/main.894203b2.js",
+    "index.html": "/discussionboard/index.html",
+    "main.375a3f88.css.map": "/discussionboard/static/css/main.375a3f88.css.map",
+    "main.894203b2.js.map": "/discussionboard/static/js/main.894203b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375a3f88.css",
+    "static/js/main.894203b2.js"
+  ]
+}
